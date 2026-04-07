@@ -13,7 +13,7 @@ https://hybridsearchengine.streamlit.app/
 
 The full technical report describing the system design, evaluation methodology, and experiments can be found here:
 
-[Full Technical Report](docs/hybrid_search_engine_report.pdf)
+[Full Technical Report](hybrid_search_engine_report.pdf)
 
 Traditional search engines rely on **lexical retrieval methods** such as BM25 that rank documents using keyword matching and corpus statistics.
 
