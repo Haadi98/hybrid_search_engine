@@ -184,19 +184,19 @@ Together these metrics evaluate:
 # Running the Project
 
 Download the repository
-```
+
 
 Install dependencies
-```
+
 
 Run Elasticsearch
-```
+
 
 Run the Streamlit interface
-```
+
 
 streamlit run app.py (on terminal)
-```
+
 
 ---
 
